@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\piko prasetyo\source\repos\project14\project14\source.cpp(27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Project14.vcxproj -> C:\Users\Piko Prasetyo\source\repos\Project14\Debug\Project14.exe
